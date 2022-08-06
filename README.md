@@ -1,2 +1,2 @@
 # images-auto
-images repo for picgo
+Image bed compatible with old blogs🐋
